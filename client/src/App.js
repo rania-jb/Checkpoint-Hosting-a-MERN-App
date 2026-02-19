@@ -63,7 +63,7 @@ class App extends React.Component {
 
     return (
       <div className="container">
-        <h1>Azure MERN Demo</h1>
+        <h1>MERN Demo</h1>
         <form onSubmit={this.handleSubmit} className="form">
           <input
             type="text"
